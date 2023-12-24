@@ -4,7 +4,7 @@ terraform {
     hostname     = "backend-pr14203.api.dev.env0.com"
     organization = "60e96baf-1601-4438-8f8f-7a6a3a9e8219.ce6188a7-844b-4b3f-8493-6011605bd683"
     workspaces {
-      name = "moshe-32272-35295309"
+      name = "rivka-45552-07744193"
     }
   }
 }

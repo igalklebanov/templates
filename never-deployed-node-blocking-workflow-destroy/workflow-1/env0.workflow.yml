@@ -1,0 +1,14 @@
+environments:
+  A:
+    name: A
+    templateName: A-0
+  C:
+    name: C
+    templateName: C
+    needs:
+      - A
+  B:
+    name: B
+    templateName: B
+    needs:
+      - C

@@ -1,7 +1,7 @@
 environments:
   A:
     name: A
-    templateName: A-0
+    templateName: A
   B:
     name: B
     templateName: B
